@@ -192,6 +192,7 @@ cardpresso
 chatall
 chatbox
 chatgpt
+chatwise
 chatwork
 chia
 chipmunk
@@ -309,6 +310,7 @@ discord@canary
 discord@development
 discord@ptb
 diskcatalogmaker
+distroav
 djstudio
 dockdoor
 dockside
@@ -467,6 +469,7 @@ frappe-books
 free-download-manager
 free42-binary
 free42-decimal
+freeplane
 freeshow
 freetube
 freeyourmusic
@@ -951,6 +954,7 @@ plus42-binary
 plus42-decimal
 pocket-casts
 podpisuj
+poe
 pokemon-tcg-live
 poker-copilot
 polymail
@@ -1412,6 +1416,7 @@ wondershare-uniconverter
 wooshy
 wordpresscom-studio
 workflowy
+workspace-one-intelligent-hub
 wpsoffice-cn
 writerside
 xca
